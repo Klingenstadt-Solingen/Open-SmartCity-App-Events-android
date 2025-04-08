@@ -1,0 +1,14 @@
+{
+  "bool": {
+    "must": [
+      {
+        "ids": {
+          "values": [
+            "4ktAaIFUMRq6UY6x",
+            "ysBvIG4HonJDP3My"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- EVENTS RELATED STRINGS [!need override!] -->
+    <string name="events_title" />
+    <string name="events_bookmarked_events_title" />
+    <string name="events_nearby" />
+    <string name="events_error_details" />
+    <string name="events_not_found" />
+    <string name="events_bookmark" />
+    <string name="events_calendar" />
+    <string name="events_not_found_today" />
+    <plurals name="events_found_today">
+        <item quantity="one" />
+        <item quantity="other" />
+    </plurals>
+    <string name="events_time_description" />
+    <string name="events_show_bookmark_description" />
+    <string name="events_ticket_info" />
+    <string name="events_location" />
+    <string name="events_full_day" />
+    <plurals name="events_found">
+        <item quantity="one" />
+        <item quantity="other" />
+    </plurals>
+</resources>
